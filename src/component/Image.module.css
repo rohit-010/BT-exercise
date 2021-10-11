@@ -1,0 +1,14 @@
+.image {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+}
+
+.image p {
+  text-align: center;
+  color: rgb(149, 158, 19);
+}
+
+.image img {
+  object-fit: cover;
+}

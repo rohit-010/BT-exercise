@@ -1,0 +1,25 @@
+.imagelist {
+  text-align: center;
+  font-size: 1rem;
+}
+
+.imagelist h2 {
+  font-style: italic;
+  color: rgb(184, 128, 56);
+}
+.imagelist ul {
+  width: 100%;
+}
+
+.imagelist ul li {
+  list-style: none;
+  width: 100%;
+  margin-bottom: 5rem;
+}
+
+.imagelist ul li:hover,
+.imagelist ul li:active {
+  background-color: #0d4777;
+  border-color: #0d4777;
+  color: white;
+}
